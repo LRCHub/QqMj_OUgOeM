@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "如月アテンション",
+  "base_artist": "MORE MORE JUMP!",
+  "createdAt": "2025-12-05T14:27:03.919600Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "如月アテンション",
+      "artist": "Jin feat. Luna Haruna",
+      "has_synced": true,
+      "path": "select/01_如月アテンション_Jin_feat._Luna_Haruna.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "如月アテンション",
+      "artist": "じん ft. 春奈るな",
+      "has_synced": true,
+      "path": "select/02_如月アテンション_じん_ft._春奈るな.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "如月アテンション",
+      "artist": "あやぽんず*",
+      "has_synced": false,
+      "path": "select/03_如月アテンション_あやぽんず.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "如月アテンション",
+      "artist": "じん",
+      "has_synced": false,
+      "path": "select/04_如月アテンション_じん.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "如月アテンション",
+      "artist": "じん feat. Luna Haruna",
+      "has_synced": true,
+      "path": "select/05_如月アテンション_じん_feat._Luna_Haruna.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "如月アテンション",
+      "artist": "じん",
+      "has_synced": true,
+      "path": "select/06_如月アテンション_じん.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "如月アテンション",
+      "artist": "Jin",
+      "has_synced": true,
+      "path": "select/07_如月アテンション_Jin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "如月アテンション",
+      "artist": "あやぽんず＊",
+      "has_synced": false,
+      "path": "select/08_如月アテンション_あやぽんず.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "如月アテンション",
+      "artist": "じん",
+      "has_synced": true,
+      "path": "select/09_如月アテンション_じん.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "如月アテンション",
+      "artist": "じん ft. 春奈るな",
+      "has_synced": false,
+      "path": "select/10_如月アテンション_じん_ft._春奈るな.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "如月アテンション",
+      "artist": "じん feat. 春奈るな",
+      "has_synced": true,
+      "path": "select/11_如月アテンション_じん_feat._春奈るな.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "如月アテンション",
+      "artist": "じん",
+      "has_synced": true,
+      "path": "select/12_如月アテンション_じん.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "如月アテンション",
+      "artist": "1st PLACE",
+      "has_synced": true,
+      "path": "select/13_如月アテンション_1st_PLACE.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "如月アテンション",
+      "artist": "じん feat. IA",
+      "has_synced": true,
+      "path": "select/14_如月アテンション_じん_feat._IA.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "如月アテンション (Full Mix)",
+      "artist": "じん",
+      "has_synced": false,
+      "path": "select/15_如月アテンション_(Full_Mix)_じん.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "如月アテンション",
+      "artist": "IA",
+      "has_synced": true,
+      "path": "select/16_如月アテンション_IA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "如月アテンション (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": false,
+      "path": "select/pl_01_如月アテンション_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ)_MORE_MORE_JUMP!.txt"
+    }
+  ]
+}
